@@ -32,7 +32,7 @@ Some of the commonly used libraries used by Data Scientists include:
 (3*4)+5
 ```
 ```
-# This wil;l convert 200 minutes into hours by dividing by 60
+# This will convert 200 minutes into hours by dividing by 60
 200/60
 ```
 
