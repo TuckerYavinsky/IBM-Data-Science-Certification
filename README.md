@@ -27,3 +27,14 @@ Some of the commonly used libraries used by Data Scientists include:
 |VS Code|
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
+```
+# This is a simple arithmetic equation to multiply then add integers 
+(3*4)+5
+```
+```
+# This wil;l convert 200 minutes into hours by dividing by 60
+200/60
+```
+
+## Author
+Tucker Yavinsky
