@@ -6,6 +6,7 @@ Objectives
 - List commonly used libraries in Data Science
 - Display commmonly used development environments for Data Science
 - Evaluate simple arithmetic using Python
+- Explain contents of notebook
 
 In this notebook, Data Science Tools and Ecosystem are summarized.
 
@@ -35,6 +36,14 @@ Some of the commonly used libraries used by Data Scientists include:
 # This will convert 200 minutes into hours by dividing by 60
 200/60
 ```
+This notebook also contains projects done through the IBM Data Science Professional Certification. This includes:
+1. Analyze stock values of Tesla and GameStop by webscraping finance data
+2. Walk through the data science pipeline with the overarching goal of predicting landing success of SpaceX rockets. Modules include:
+  - Data Collection through APIs and Webscraping
+  - Data Wrangling
+  - Exploratory Data Analysis using SQL and Data Visualizations
+  - Creating Maps of Landing Sites in Folium
+  - Machine Learning Model Creation with Decision Trees, SVMs, Regression and kNN
 
 ## Author
 Tucker Yavinsky
